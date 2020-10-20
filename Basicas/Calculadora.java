@@ -3,7 +3,7 @@ package Basicas;
 public class Calculadora {
 
     public void suma() {
-
+     
     }
 
     public void resta() {
@@ -11,11 +11,11 @@ public class Calculadora {
     }
 
     public int multiplicacion(int a, int b) {
-        return a * b;
+        return a;
     }
 
     public int division(int a, int b) {
-        return a / b;
+        return b;
     }
 
 }
